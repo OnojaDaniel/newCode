@@ -1,0 +1,2 @@
+# newCode
+Storing Javascript
